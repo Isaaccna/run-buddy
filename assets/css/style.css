@@ -63,11 +63,11 @@ section {
 }
 /* Hero Style start */
 .hero {
-    background-image: url("../images/hero-bg.jpeg");
+    background-image: url("assets/images/hero-bg.jpg");
     height: 600px;
     background-size: cover;
     background-position: center;
-    position:relative
+    position: relative;
 }
 /* Hero Style End */
 .hero-form {
